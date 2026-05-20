@@ -89,22 +89,22 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "Qual prática contribui diretamente para a redução da erosão do solo no agronegócio?",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            "Queimada da vegetação antes do plantio",
+            "Plantio direto na palha",
+            "Uso excessivo de fertilizantes químicos",
+            "Desmatamento de áreas nativas"
         ],
-        resposta: 0
+        resposta: 2
     },
     {
-        pergunta: "Qual é o benefício principal dos drones na agricultura?",
+        pergunta: "O uso racional da água na agricultura sustentável tem como objetivo principal:",
         opcoes: [
-            "Substituir completamente os agricultores",
-            "Monitorar culturas e detectar pragas com câmeras especiais",
-            "Aumentar o preço dos produtos",
-            "Reduzir a qualidade das colheitas"
+            "Aumentar o desperdício hídrico",
+            "Reduzir os custos apenas com energia elétrica",
+            "Preservar os recursos hídricos e aumentar a eficiência da produção",
+            "Substituir completamente a irrigação"
         ],
         resposta: 1
     },
