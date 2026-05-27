@@ -119,34 +119,34 @@ const quizData = [
         resposta: 1
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "Qual é um dos principais objetivos da agricultura sustentável?",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Aumentar o desperdício de água",
+            "Produzir alimentos sem preocupação ambiental",
+            "Garantir produção agrícola e preservação ambiental ao mesmo tempo",
+            "Expandir áreas agrícolas sem limites"
+        ],
+        resposta: 3
+    },
+    {
+        pergunta: "O uso consciente da água na agricultura sustentável pode ser feito por meio de:",
+        opcoes: [
+            "Irrigação por gotejamento",
+            "Desperdício de água nos cultivos",
+            "Poluição de rios",
+            "Irrigação contínua sem controle"
         ],
         resposta: 1
     },
     {
-        pergunta: "Por que a rotação de culturas é importante?",
+        pergunta: "O que os fertilizantes orgânicos ajudam a fazer?",
         opcoes: [
-            "Para confundir os insetos",
-            "Mantém a fertilidade do solo e reduz pragas naturalmente",
-            "Apenas para decoração visual",
-            "Não tem importância"
+            "Empobrecer o solo",
+            "Melhorar a qualidade do solo de forma natural",
+            "Aumentar a poluição ambiental",
+            "Eliminar toda a vegetação local"
         ],
-        resposta: 1
-    },
-    {
-        pergunta: "Qual é o objetivo do Agrinho?",
-        opcoes: [
-            "Incentivar o ensino de tecnologia e programação com foco em sustentabilidade agrícola",
-            "Vender produtos agrícolas",
-            "Apenas para diversão",
-            "Ensinar apenas matemática"
-        ],
-        resposta: 0
+        resposta: 2
     }
 ];
 
