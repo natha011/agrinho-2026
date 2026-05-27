@@ -96,7 +96,7 @@ const quizData = [
             "Uso excessivo de fertilizantes químicos",
             "Desmatamento de áreas nativas"
         ],
-        resposta: 2
+        resposta: 3
     },
     {
         pergunta: "O uso racional da água na agricultura sustentável tem como objetivo principal:",
